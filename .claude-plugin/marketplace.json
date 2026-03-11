@@ -1,0 +1,19 @@
+{
+  "name": "aidan-claude-agents",
+  "owner": {
+    "name": "Aidan"
+  },
+  "plugins": [
+    {
+      "name": "aidan-claude-agents",
+      "source": "./",
+      "description": "A suite of reusable agents and skills for Claude Code",
+      "version": "0.1.0",
+      "author": {
+        "name": "Aidan"
+      },
+      "license": "MIT",
+      "keywords": ["claude-code", "agents", "skills", "automation"]
+    }
+  ]
+}
