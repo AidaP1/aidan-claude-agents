@@ -1,0 +1,10 @@
+{
+  "name": "aidan-claude-agents",
+  "version": "0.1.0",
+  "description": "A suite of reusable agents and skills for Claude Code",
+  "author": {
+    "name": "Aidan"
+  },
+  "license": "MIT",
+  "keywords": ["claude-code", "agents", "skills", "automation"]
+}

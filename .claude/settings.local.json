@@ -1,0 +1,13 @@
+{
+  "env": {
+    "CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS": "1"
+  },
+  "permissions": {
+    "allow": [
+      "Bash(code /Users/aidan/projects/aidan-claude-agents)",
+      "Bash(grep -A 5 \"^tools:\" /Users/aidan/projects/aidan-claude-agents/agents/*.md | head -40)",
+      "Bash(grep -E \"^\\(skills|background|memory|mcpServers\\):\" /Users/aidan/projects/aidan-claude-agents/agents/*.md)",
+      "Bash(git init:*)"
+    ]
+  }
+}
