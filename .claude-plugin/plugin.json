@@ -6,5 +6,6 @@
     "name": "Aidan"
   },
   "license": "MIT",
-  "keywords": ["claude-code", "agents", "skills", "automation"]
+  "keywords": ["claude-code", "agents", "skills", "automation"],
+  "agents": "./agents/"
 }
