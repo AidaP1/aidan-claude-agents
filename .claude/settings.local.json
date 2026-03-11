@@ -7,7 +7,14 @@
       "Bash(code /Users/aidan/projects/aidan-claude-agents)",
       "Bash(grep -A 5 \"^tools:\" /Users/aidan/projects/aidan-claude-agents/agents/*.md | head -40)",
       "Bash(grep -E \"^\\(skills|background|memory|mcpServers\\):\" /Users/aidan/projects/aidan-claude-agents/agents/*.md)",
-      "Bash(git init:*)"
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "WebSearch",
+      "Bash(git push:*)",
+      "Bash(git checkout:*)"
     ]
+  },
+  "enabledPlugins": {
+    "aidan-claude-agents@aidan-claude-agents": true
   }
 }
