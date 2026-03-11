@@ -1,7 +1,7 @@
 ---
 name: orchestrator
 description: Coordinate and run multiple agents for complex tasks. Use when a task spans multiple concerns (build, test, audit) or requires sequential agent handoffs.
-tools: Read, Glob, Grep, Bash, Edit, Write, Agent
+tools: Agent
 model: opus
 maxTurns: 40
 ---
